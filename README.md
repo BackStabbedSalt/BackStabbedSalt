@@ -1,4 +1,11 @@
-![1000039176](https://github.com/user-attachments/assets/878da1e3-6712-448c-b2a9-ae5b3bdbc79b)
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/878da1e3-6712-448c-b2a9-ae5b3bdbc79b"
+    alt="XEN graphic"
+    style="width: 100%; max-width: 1200px; height: auto; image-rendering: auto;"
+  />
+</p>
+
 
 
 <p align="center">
