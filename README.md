@@ -15,4 +15,16 @@
 </p>
 
 
-
+<p align="center">
+  <img
+<div style="width:100%; text-align:center; white-space:nowrap;">
+  <img src="https://github.com/user-attachments/assets/d1c30719-2fb3-4a51-bb44-660b1de6ec56"
+       alt="Stamp 1"
+       style="width:90px; height:auto; display:inline-block; margin:0 5px;" />
+  <img src="https://github.com/user-attachments/assets/166790de-4240-4390-9f4d-031e36dec5c1"
+       alt="Stamp 2"
+       style="width:90px; height:auto; display:inline-block; margin:0 5px;" />
+  <img src="https://github.com/user-attachments/assets/a9fe0052-7090-4e0c-b687-63a3489dfb28"
+       alt="Stamp 3"
+       style="width:90px; height:auto; display:inline-block; margin:0 5px;" />
+</div>
